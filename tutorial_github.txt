@@ -1,3 +1,6 @@
 Tutorial Github :
 - create new repository
 - add >> create new file / upload file 
+- buat nama file ex : tutorial_github.txt
+- isi file
+- buat commit
